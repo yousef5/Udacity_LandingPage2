@@ -8,4 +8,4 @@ This is a basic landing page that uses Javascript to create a NavBar dynamically
 
 ### To view project
 
-The project is published on GitHub Pages. To view, click on this link: [link to project](https://yousef5.github.io/Udacity_LandingPage/)
+The project is published on GitHub Pages. To view, click on this link: [link to project](https://yousef5.github.io/Udacity_LandingPage2/)
